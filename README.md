@@ -72,5 +72,6 @@ The **Hotel Booking Cancellation Dashboard** is a data visualization solution de
 ---
 ## DashBoard
 <br>
+![Screenshot 2025-04-17 093424](https://github.com/user-attachments/assets/1e328ee3-01ac-4640-8e06-8c45753c3cd4)
 ![Screenshot 2025-06-26 175023](https://github.com/user-attachments/assets/fa6205d2-2587-478f-a8eb-3d01dd5e4738)
 
