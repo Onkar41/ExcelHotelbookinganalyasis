@@ -8,7 +8,7 @@ The **Hotel Booking Cancellation Dashboard** is a data visualization solution de
 
 ---
 
-## 📌 Need of the Proposed System
+## 📌 Need of the Proposed System 
 
 * Helps hotels identify peak cancellation periods and plan accordingly.
 * Enables better marketing and retention strategies based on guest types and behavior.
