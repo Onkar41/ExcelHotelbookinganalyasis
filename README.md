@@ -1,6 +1,4 @@
-Here is a formatted `README.md` with the same professional style and markdown structure you used for your **Hotel Booking Cancellations Dashboard** — consistent with your House Price Prediction System layout:
 
----
 
 # 🏨 Hotel Booking Cancellation Dashboard
 
@@ -68,6 +66,11 @@ The **Hotel Booking Cancellation Dashboard** is a data visualization solution de
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Data sets
+<a href="https://github.com/Onkar41/house-price-pridiction/blob/main/hpp/bhp.csv" >data</a>
 
-* **Microsoft Excel** for data analysis
+---
+## DashBoard
+<br>
+![Screenshot 2025-06-26 175023](https://github.com/user-attachments/assets/fa6205d2-2587-478f-a8eb-3d01dd5e4738)
+
